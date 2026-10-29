@@ -1,0 +1,6 @@
+{
+  "name": "CampusMilan",
+  "description": "AI-Powered College Event Discovery, Recommendation & Management Platform with personalized TF-IDF recommendations, multi-department filtering, organizer controls, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
